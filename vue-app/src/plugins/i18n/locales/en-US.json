@@ -1,0 +1,12 @@
+{
+  "page": {
+    "home": "Home",
+    "about": "About"
+  },
+  "language": {
+    "label": "Language",
+    "option": "English"
+  },
+  "hello": "Hello world!",
+  "about": "This is an about page."
+}

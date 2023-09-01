@@ -1,0 +1,12 @@
+{
+  "page": {
+    "home": "主頁",
+    "about": "關於"
+  },
+  "language": {
+    "label": "語言",
+    "option": "中文"
+  },
+  "hello": "您好，世界！",
+  "about": "這是一個關於頁面"
+}

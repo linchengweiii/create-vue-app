@@ -1,0 +1,21 @@
+{
+  "name": "@linchengweiii/create-vue-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Cheng-Wei Lin <linchengweiii@gmail.com>",
+  "bin": {
+    "create-vue-app": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linchengweiii/create-vue-app.git"
+  },
+  "homepage": "https://github.com/linchengweiii/create-vue-app",
+  "bugs": {
+    "url": "https://github.com/linchengweiii/create-vue-app/issues"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "kolorist": "^1.8.0"
+  }
+}
